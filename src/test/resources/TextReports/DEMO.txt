@@ -1,0 +1,5 @@
+| Scenario | Environment | Browser | Status | Failure Message |
+|To Verify the User Registration Process  - ['NTC-FirstName Missing']|DEMO|CHROME| Passed |Not Applicable|
+|To Verify the User Registration Process  - ['NTC-LastName Missing']|DEMO|CHROME| Passed |Not Applicable|
+|To Verify the User Registration Process  - ['NTC-Email Missing']|DEMO|CHROME| Passed |Not Applicable|
+|To Verify the User Registration Process  - ['NTC-Password Missing']|DEMO|CHROME| Failed |Error Message Not matched/Displayed|
