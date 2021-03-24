@@ -1,4 +1,4 @@
-# Automated test with custom html reports in Java with Cucumber and Selenium WebDriver #
+# Custom HTML Reports in Java with Cucumber and Selenium WebDriver #
 
 This project is an example of UI automated functional test using Selenium and Cucumber.
 
